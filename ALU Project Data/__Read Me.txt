@@ -1,0 +1,13 @@
+All the designed are made with proteus 7 (which are also compatible with proteus 8).
+The tables are made with Microsoft Excel.
+The presentation is made with Microsoft PowerPoint.
+The documentation is made with Microsoft Word.
+The pictures in Pics Folder are taken from proteus design schematic (the flow chart was made in Microsoft word).
+
+
+------Notes
+I might have misspelled some word (English in not my mother language) so you are probably right if you think a word is out of content,
+but you still can contact me if you want to be sure (anaskhedr47@gmail.com).
+
+------Licence
+I'm not sure what the licence I chose mean, but you're free to use the designs as you like provided that you send me your improved design Idea (you don't have to send the actual design if you don't want to).
